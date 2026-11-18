@@ -15,7 +15,7 @@ const Contact = () => {
           <div className="contact-content">
             <h2 className="section-title">Let's <span className="text-gradient">Connect</span></h2>
             <p>
-              Open to new opportunities in Web & App Development.
+              Currently working as a Junior Executive in the LMS Department at IIHS Multiversity.
               Feel free to reach out via email or phone.
             </p>
 

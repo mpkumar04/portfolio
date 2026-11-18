@@ -21,7 +21,8 @@ const About = () => {
                             </p>
                             <p>
                                 With hands-on experience in web and mobile app development (React, Flutter) and a growing focus on UI/UX design,
-                                I create impactful solutions. I'm currently expanding my skills in modern frameworks and design thinking.
+                                I create impactful solutions. I'm currently working as a Junior Executive in the LMS Department at IIHS Multiversity,
+                                while continuing to expand my skills in modern frameworks and design thinking.
                             </p>
                         </div>
                     </div>

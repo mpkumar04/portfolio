@@ -15,14 +15,14 @@ const Hero = () => {
         >
           <div className="badge">
             <span className="badge-dot"></span>
-            Junior Executive @ IIHS Multiversity
+            Available for freelance
           </div>
           <h1>
             Hi, I'm Pravin <br />
             <span className="text-gradient">Web & App Developer</span>
           </h1>
           <p className="hero-description text-secondary">
-            I'm a UI/UX Designer and Full Stack Developer from Sri Lanka, currently working as a Junior Executive in the LMS Department at IIHS Multiversity.
+            I'm a UI/UX Designer and Full Stack Developer from Sri Lanka.
             Passionate about crafting seamless digital experiences by blending design, technology, and business insights.
           </p>
 

@@ -1,0 +1,9 @@
+node: v26.13.1
+npm: 11.20.0
+esbuild_install_js_exists: True
+esbuild_install_exit: 0
+vite_cmd_exists: True
+esbuild_pkg_exists: True
+at_esbuild_dir_exists: True
+at_esbuild_contents: win32-x64
+esbuild_exe: G:\Websites\portfolio\node_modules\@esbuild\win32-x64\esbuild.exe
